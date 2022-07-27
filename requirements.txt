@@ -1,0 +1,3 @@
+pip3 install selenium
+pip3 install webdriver-manager
+chrome driver for windows Note: download the same version as your current chrome browser
